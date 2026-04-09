@@ -13,7 +13,7 @@ PAGE_W, PAGE_H = landscape(A3)
 # Color palette
 BG_DARK    = colors.HexColor('#0a0e1a')
 BG_MID     = colors.HexColor('#0f1629')
-ACCENT1    = colors.HexColor('#00d4ff')   # cyan
+ACCENT1    = colors.HexColor('#00d4ff')   
 ACCENT2    = colors.HexColor('#7c3aed')   # purple
 ACCENT3    = colors.HexColor('#10b981')   # green
 GOLD       = colors.HexColor('#f59e0b')   # amber
