@@ -90,5 +90,4 @@ This project provides a clear and interactive way to understand the working of t
 
 ---
 
-## 📄 License
-This project is for educational purposes.
+
